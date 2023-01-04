@@ -363,7 +363,10 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # File containing secret token
-token.txt.txt
+token.txt
+
+# File containing password
+password.txt
 
 # File containing server password
 DiscordBot/LavaLink
